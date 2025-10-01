@@ -1,0 +1,21 @@
+{
+  "name": "Biblioteca de Arquivos Brightlux",
+  "short_name": "Arquivos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f4d80ff",
+  "description": "Uma biblioteca de arquivos para pesquisa e compartilhamento rápido de documentos.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

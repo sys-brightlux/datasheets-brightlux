@@ -1,0 +1,132 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    
+    /* --- INÍCIO DA ATUALIZAÇÃO --- */
+    
+    /* 1. Define uma cor de fundo sólida para a página */
+    background-color: #f4f6f8; /* Um cinza claro e neutro */
+    
+    /* 2. Adiciona a sua imagem de logo por cima da cor */
+    background-image: url('logo-brightlux-azul.png');
+    
+    /* 3. Centraliza a imagem perfeitamente na tela (horizontal e vertical) */
+    background-position: center center;
+    
+    /* 4. Garante que a imagem NUNCA se repita */
+    background-repeat: no-repeat;
+    
+    /* 5. Fixa a imagem no fundo, para que ela não role junto com o conteúdo */
+    background-attachment: fixed;
+    
+    /* 6. (OPCIONAL) Ajusta o tamanho do logo. Use 'contain' para garantir que ele sempre apareça inteiro
+       ou defina um tamanho fixo como '400px' se preferir. */
+    background-size: contain; 
+    
+    /* --- FIM DA ATUALIZAÇÃO --- */
+
+    margin: 0;
+    padding: 20px 0;
+    color: #22223b;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #0f4d80ff;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+/* O container principal agora se destaca sobre o fundo */
+.container {
+    background: rgba(255, 255, 255, 0.97); /* Fundo branco com leve transparência */
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 32px 28px 24px 28px;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    position: relative; /* Necessário para que o conteúdo fique sobre o fundo fixo */
+    z-index: 1;
+}
+
+.search-group {
+    margin-bottom: 24px;
+}
+
+#caixa-pesquisa {
+    width: 96%;
+    padding: 12px 14px;
+    border: 1px solid #c9c9c9;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    background: #f8fafc;
+    transition: border 0.2s;
+}
+
+#caixa-pesquisa:focus {
+    border-color: #4f8cff;
+    outline: none;
+    background: #fff;
+}
+
+#resultados {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.item-resultado {
+    border: 1px solid #e0e0e0;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: box-shadow 0.2s;
+}
+
+.item-resultado:hover {
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+.item-resultado h2 {
+    color: #0f4d80ff;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+}
+
+.item-resultado p {
+    margin: 0 0 16px 0;
+    line-height: 1.5;
+}
+
+.item-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.item-actions a,
+.item-actions button {
+    text-decoration: none;
+    background: #0f4d80ff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.item-actions a:hover,
+.item-actions button:hover {
+    background: #4f8cff;
+}
+
+.no-results {
+    text-align: center;
+    color: #666;
+    padding: 20px;
+}
