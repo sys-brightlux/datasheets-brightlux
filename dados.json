@@ -36,12 +36,6 @@
     "arquivo": "arquivos/DATASHEET_HBMI_G4_v2.pdf"
   },
   {
-    "id": 7,
-    "produto": "HBMI M100",
-    "descricao": "Folha de dados (datasheet) da luminária Highbay HBMI, modelo M100.",
-    "arquivo": "arquivos/DATASHEET_HBMI_M100_25_03_25.pdf"
-  },
-  {
     "id": 8,
     "produto": "HBMI M100HV",
     "descricao": "Folha de dados (datasheet) da luminária Highbay HBMI M100HV (High Voltage).",
@@ -162,12 +156,6 @@
     "arquivo": "arquivos/DATASHEET_UFO_G2_2025_25_09.pdf"
   },
   {
-    "id": 28,
-    "produto": "URBJET",
-    "descricao": "Folha de dados (datasheet) da luminária pública modelo URBJET.",
-    "arquivo": "arquivos/DATASHEET_URBJET_2023_24_01_05.pdf"
-  },
-  {
     "id": 29,
     "produto": "Painel LED",
     "descricao": "Folha de dados (datasheet) da linha de painéis de LED.",
@@ -190,11 +178,6 @@
     "produto": "MOD FIT Tampa",
     "descricao": "Documento técnico ou manual para a tampa do produto MOD FIT.",
     "arquivo": "arquivos/MOD FIT TAMPA - 2021.pdf"
-  },
-  {
-    "id": 33,
-    "produto": "Luminária SPORT",
-    "descricao": "Documento técnico ou manual para a luminária da linha SPORT, para iluminação esportiva.",
-    "arquivo": "arquivos/SPORT - 2021.pdf"
   }
+  
 ]
