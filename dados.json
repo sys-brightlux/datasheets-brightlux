@@ -178,6 +178,12 @@
     "produto": "MOD FIT Tampa",
     "descricao": "Documento técnico ou manual para a tampa do produto MOD FIT.",
     "arquivo": "arquivos/MOD FIT TAMPA - 2021.pdf"
+  },
+  {
+    "id": 33,
+    "produto": "REDE ELÉTRICA",
+    "descricao": "Documento técnico sobre a rede elétrica para instalações de iluminação.",
+    "arquivo": "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
   }
   
 ]
