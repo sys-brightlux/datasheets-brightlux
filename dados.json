@@ -6,6 +6,19 @@
     "arquivo": "arquivos/Acessório Articulação Publica.pdf"
   },
   {
+    "id": 34,
+    "produto": "Termo de Garantia",
+    "descricao": "Documento de termo de garantia dos produtos Brightlux.",
+    "arquivo": "arquivos/TERMO_DE_GARANTIA.pdf"
+
+  },
+  {
+    "id": 33,
+    "produto": "Ligação HBMI Rede Elétrica",
+    "descricao": "Documento técnico sobre a rede elétrica para instalações de iluminação.",
+    "arquivo": "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
+  },
+  {
     "id": 2,
     "produto": "Guia de Dimerização 0-10V",
     "descricao": "Guia de orientação da Brightlux sobre a dimerização de produtos com protocolo 0-10V.",
@@ -178,12 +191,6 @@
     "produto": "MOD FIT Tampa",
     "descricao": "Documento técnico ou manual para a tampa do produto MOD FIT.",
     "arquivo": "arquivos/MOD FIT TAMPA - 2021.pdf"
-  },
-  {
-    "id": 33,
-    "produto": "REDE ELÉTRICA",
-    "descricao": "Documento técnico sobre a rede elétrica para instalações de iluminação.",
-    "arquivo": "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
   }
   
 ]
