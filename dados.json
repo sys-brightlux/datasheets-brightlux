@@ -1,196 +1,65 @@
 [
-  {
-    "id": 1,
-    "produto": "Acessório Articulação Pública",
-    "descricao": "Documento técnico sobre o acessório de articulação para iluminação pública.",
-    "arquivo": "arquivos/Acessório Articulação Publica.pdf"
-  },
-  {
-    "id": 34,
-    "produto": "Termo de Garantia",
-    "descricao": "Documento de termo de garantia dos produtos Brightlux.",
-    "arquivo": "arquivos/TERMO_DE_GARANTIA.pdf"
-
-  },
-  {
-    "id": 33,
-    "produto": "Ligação HBMI Rede Elétrica",
-    "descricao": "Documento técnico sobre a rede elétrica para instalações de iluminação.",
-    "arquivo": "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
-  },
-  {
-    "id": 2,
-    "produto": "Guia de Dimerização 0-10V",
-    "descricao": "Guia de orientação da Brightlux sobre a dimerização de produtos com protocolo 0-10V.",
-    "arquivo": "arquivos/BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V.pdf"
-  },
-  {
-    "id": 3,
-    "produto": "Driver HBMI",
-    "descricao": "Folha de dados (datasheet) do driver para a linha de luminárias Highbay HBMI.",
-    "arquivo": "arquivos/DATASHEET_DRIVER_HBMI_25-09-12.pdf"
-  },
-  {
-    "id": 4,
-    "produto": "Driver Street",
-    "descricao": "Folha de dados (datasheet) do driver para a linha de iluminação pública (Street).",
-    "arquivo": "arquivos/DATASHEET_DRIVER_STREET_24_05_06.pdf"
-  },
-  {
-    "id": 5,
-    "produto": "HBMI G4 440VAC",
-    "descricao": "Folha de dados (datasheet) da luminária Highbay HBMI G4, versão para alta voltagem (440VAC).",
-    "arquivo": "arquivos/DATASHEET_HBMI_G4_440VAC_v1.pdf"
-  },
-  {
-    "id": 6,
-    "produto": "HBMI G4",
-    "descricao": "Folha de dados (datasheet) geral da luminária Highbay HBMI G4.",
-    "arquivo": "arquivos/DATASHEET_HBMI_G4_v2.pdf"
-  },
-  {
-    "id": 8,
-    "produto": "HBMI M100HV",
-    "descricao": "Folha de dados (datasheet) da luminária Highbay HBMI M100HV (High Voltage).",
-    "arquivo": "arquivos/DATASHEET_HBMI_M100HV_25_08_13.pdf"
-  },
-  {
-    "id": 9,
-    "produto": "HBMI Portátil",
-    "descricao": "Folha de dados (datasheet) da luminária Highbay HBMI em sua versão portátil.",
-    "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_v2.pdf"
-  },
-  {
-    "id": 10,
-    "produto": "Helyos Solar",
-    "descricao": "Folha de dados (datasheet) da luminária autônoma Helyos com alimentação solar.",
-    "arquivo": "arquivos/DATASHEET_HELYOS_SOLAR_25_04_07.pdf"
-  },
-  {
-    "id": 11,
-    "produto": "Hermética IP66",
-    "descricao": "Folha de dados (datasheet) da luminária hermética com grau de proteção IP66.",
-    "arquivo": "arquivos/DATASHEET_HERMETICA_IP66_2023_24_07_10.pdf"
-  },
-  {
-    "id": 12,
-    "produto": "Hermética IP69K",
-    "descricao": "Folha de dados (datasheet) da luminária hermética com grau de proteção IP69K, para ambientes agressivos.",
-    "arquivo": "arquivos/DATASHEET_HERMETICA_IP69K_23_06_19.pdf"
-  },
-  {
-    "id": 13,
-    "produto": "HTB2",
-    "descricao": "Folha de dados (datasheet) da luminária industrial modelo HTB2.",
-    "arquivo": "arquivos/DATASHEET_HTB2_25_09_09.pdf"
-  },
-  {
-    "id": 14,
-    "produto": "HTC-PCL",
-    "descricao": "Folha de dados (datasheet) da luminária industrial modelo HTC-PCL.",
-    "arquivo": "arquivos/DATASHEET_HTC_PCL_23_10_10.pdf"
-  },
-  {
-    "id": 15,
-    "produto": "HTS",
-    "descricao": "Folha de dados (datasheet) da luminária industrial modelo HTS.",
-    "arquivo": "arquivos/DATASHEET_HTS_25_02_12.pdf"
-  },
-  {
-    "id": 16,
-    "produto": "LEX",
-    "descricao": "Folha de dados (datasheet) da luminária industrial modelo LEX.",
-    "arquivo": "arquivos/DATASHEET_LEX_v1.pdf"
-  },
-  {
-    "id": 17,
-    "produto": "Linear",
-    "descricao": "Folha de dados (datasheet) da linha de luminárias lineares.",
-    "arquivo": "arquivos/DATASHEET_Linear_2021_v2.pdf"
-  },
-  {
-    "id": 18,
-    "produto": "Ornamental GRD",
-    "descricao": "Folha de dados (datasheet) da luminária ornamental modelo GRD.",
-    "arquivo": "arquivos/DATASHEET_Ornamental_GRD_24_12_19.pdf"
-  },
-  {
-    "id": 19,
-    "produto": "Ornamental Injetada",
-    "descricao": "Folha de dados (datasheet) da linha de luminárias ornamentais injetadas.",
-    "arquivo": "arquivos/DATASHEET_Ornamental_Injetada_25_07_04.pdf"
-  },
-  {
-    "id": 20,
-    "produto": "Ornamental Paraty",
-    "descricao": "Folha de dados (datasheet) da luminária ornamental modelo Paraty.",
-    "arquivo": "arquivos/DATASHEET_ORNAMENTAL_PARATY_25_09_30.pdf"
-  },
-  {
-    "id": 21,
-    "produto": "Projetor Blindado CRYF",
-    "descricao": "Folha de dados (datasheet) do projetor blindado modelo CRYF.",
-    "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.pdf"
-  },
-  {
-    "id": 22,
-    "produto": "Projetor CRYF Alta Temperatura",
-    "descricao": "Folha de dados (datasheet) do projetor blindado CRYF, versão para ambientes de alta temperatura.",
-    "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_ALTA_TEMPERATURA_24_02_08.pdf"
-  },
-  {
-    "id": 23,
-    "produto": "Projetor CRYF RGB Controle 1 Zona",
-    "descricao": "Folha de dados (datasheet) do projetor blindado CRYF RGB com controle de uma zona.",
-    "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25.pdf"
-  },
-  {
-    "id": 24,
-    "produto": "Projetor CRYF RGB DMX",
-    "descricao": "Folha de dados (datasheet) do projetor blindado CRYF RGB com controle via protocolo DMX.",
-    "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_DMX_30_04_25.pdf"
-  },
-  {
-    "id": 25,
-    "produto": "Refletor FIT",
-    "descricao": "Folha de dados (datasheet) do refletor da linha FIT.",
-    "arquivo": "arquivos/DATASHEET_REFLETOR_FIT_23_03_30.pdf"
-  },
-  {
-    "id": 26,
-    "produto": "StreetFit",
-    "descricao": "Folha de dados (datasheet) da luminária pública modelo StreetFit.",
-    "arquivo": "arquivos/DATASHEET_StreetFit_v1.pdf"
-  },
-  {
-    "id": 27,
-    "produto": "UFO G2",
-    "descricao": "Folha de dados (datasheet) da luminária Highbay UFO de segunda geração (G2).",
-    "arquivo": "arquivos/DATASHEET_UFO_G2_2025_25_09.pdf"
-  },
-  {
-    "id": 29,
-    "produto": "Painel LED",
-    "descricao": "Folha de dados (datasheet) da linha de painéis de LED.",
-    "arquivo": "arquivos/DATSHEET_PAINEL_25-09-12.pdf"
-  },
-  {
-    "id": 30,
-    "produto": "MOD FIT",
-    "descricao": "Documento técnico ou manual do produto MOD FIT.",
-    "arquivo": "arquivos/MOD FIT - 2021.pdf"
-  },
-  {
-    "id": 31,
-    "produto": "MOD FIT Cúpula",
-    "descricao": "Documento técnico ou manual para a cúpula do produto MOD FIT.",
-    "arquivo": "arquivos/MOD FIT CUPULA - 2021.pdf"
-  },
-  {
-    "id": 32,
-    "produto": "MOD FIT Tampa",
-    "descricao": "Documento técnico ou manual para a tampa do produto MOD FIT.",
-    "arquivo": "arquivos/MOD FIT TAMPA - 2021.pdf"
-  }
-  
+  {"id": 1, "produto": "Acessorio Articulacao Publica", "descricao": "Documento técnico ou folha de dados para o produto Acessorio Articulacao Publica.", "arquivo": "arquivos/Acessorio Articulacao Publica.pdf"}
+,
+  {"id": 2, "produto": "BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V", "descricao": "Documento técnico ou folha de dados para o produto BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V.", "arquivo": "arquivos/BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V.pdf"}
+,
+  {"id": 3, "produto": "DRIVER HBMI 25-09-12", "descricao": "Documento técnico ou folha de dados para o produto DRIVER HBMI 25-09-12.", "arquivo": "arquivos/DATASHEET_DRIVER_HBMI_25-09-12.pdf"}
+,
+  {"id": 4, "produto": "DRIVER STREET 24 05 06", "descricao": "Documento técnico ou folha de dados para o produto DRIVER STREET 24 05 06.", "arquivo": "arquivos/DATASHEET_DRIVER_STREET_24_05_06.pdf"}
+,
+  {"id": 5, "produto": "HBMI G4 440VAC v1", "descricao": "Documento técnico ou folha de dados para o produto HBMI G4 440VAC v1.", "arquivo": "arquivos/DATASHEET_HBMI_G4_440VAC_v1.pdf"}
+,
+  {"id": 6, "produto": "HBMI G4 v2", "descricao": "Documento técnico ou folha de dados para o produto HBMI G4 v2.", "arquivo": "arquivos/DATASHEET_HBMI_G4_v2.pdf"}
+,
+  {"id": 7, "produto": "HBMI M100HV 25 08 13", "descricao": "Documento técnico ou folha de dados para o produto HBMI M100HV 25 08 13.", "arquivo": "arquivos/DATASHEET_HBMI_M100HV_25_08_13.pdf"}
+,
+  {"id": 8, "produto": "HBMI PORTÁTIL v2", "descricao": "Documento técnico ou folha de dados para o produto HBMI PORTÁTIL v2.", "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_v2.pdf"}
+,
+  {"id": 9, "produto": "HELYOS SOLAR 25 04 07", "descricao": "Documento técnico ou folha de dados para o produto HELYOS SOLAR 25 04 07.", "arquivo": "arquivos/DATASHEET_HELYOS_SOLAR_25_04_07.pdf"}
+,
+  {"id": 10, "produto": "HERMETICA IP66 2023 24 07 10", "descricao": "Documento técnico ou folha de dados para o produto HERMETICA IP66 2023 24 07 10.", "arquivo": "arquivos/DATASHEET_HERMETICA_IP66_2023_24_07_10.pdf"}
+,
+  {"id": 11, "produto": "HERMETICA IP69K 23 06 19", "descricao": "Documento técnico ou folha de dados para o produto HERMETICA IP69K 23 06 19.", "arquivo": "arquivos/DATASHEET_HERMETICA_IP69K_23_06_19.pdf"}
+,
+  {"id": 12, "produto": "HTB2 25 09 09", "descricao": "Documento técnico ou folha de dados para o produto HTB2 25 09 09.", "arquivo": "arquivos/DATASHEET_HTB2_25_09_09.pdf"}
+,
+  {"id": 13, "produto": "HTC PCL 23 10 10", "descricao": "Documento técnico ou folha de dados para o produto HTC PCL 23 10 10.", "arquivo": "arquivos/DATASHEET_HTC_PCL_23_10_10.pdf"}
+,
+  {"id": 14, "produto": "HTS 25 02 12", "descricao": "Documento técnico ou folha de dados para o produto HTS 25 02 12.", "arquivo": "arquivos/DATASHEET_HTS_25_02_12.pdf"}
+,
+  {"id": 15, "produto": "LEX v1", "descricao": "Documento técnico ou folha de dados para o produto LEX v1.", "arquivo": "arquivos/DATASHEET_LEX_v1.pdf"}
+,
+  {"id": 16, "produto": "Linear 2021 v2", "descricao": "Documento técnico ou folha de dados para o produto Linear 2021 v2.", "arquivo": "arquivos/DATASHEET_Linear_2021_v2.pdf"}
+,
+  {"id": 17, "produto": "Ornamental GRD 24 12 19", "descricao": "Documento técnico ou folha de dados para o produto Ornamental GRD 24 12 19.", "arquivo": "arquivos/DATASHEET_Ornamental_GRD_24_12_19.pdf"}
+,
+  {"id": 18, "produto": "Ornamental Injetada 25 07 04", "descricao": "Documento técnico ou folha de dados para o produto Ornamental Injetada 25 07 04.", "arquivo": "arquivos/DATASHEET_Ornamental_Injetada_25_07_04.pdf"}
+,
+  {"id": 19, "produto": "ORNAMENTAL PARATY 25 09 30", "descricao": "Documento técnico ou folha de dados para o produto ORNAMENTAL PARATY 25 09 30.", "arquivo": "arquivos/DATASHEET_ORNAMENTAL_PARATY_25_09_30.pdf"}
+,
+  {"id": 20, "produto": "PROJETOR BLINDADO CRYF 29 07 25", "descricao": "Documento técnico ou folha de dados para o produto PROJETOR BLINDADO CRYF 29 07 25.", "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.pdf"}
+,
+  {"id": 21, "produto": "PROJETOR BLINDADO CRYF ALTA TEMPERATURA 24 02 08", "descricao": "Documento técnico ou folha de dados para o produto PROJETOR BLINDADO CRYF ALTA TEMPERATURA 24 02 08.", "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_ALTA_TEMPERATURA_24_02_08.pdf"}
+,
+  {"id": 22, "produto": "PROJETOR BLINDADO CRYF RGB CONTROLE 1Z 16 09 25", "descricao": "Documento técnico ou folha de dados para o produto PROJETOR BLINDADO CRYF RGB CONTROLE 1Z 16 09 25.", "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25.pdf"}
+,
+  {"id": 23, "produto": "PROJETOR BLINDADO CRYF RGB DMX 30 04 25", "descricao": "Documento técnico ou folha de dados para o produto PROJETOR BLINDADO CRYF RGB DMX 30 04 25.", "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_DMX_30_04_25.pdf"}
+,
+  {"id": 24, "produto": "REFLETOR FIT 23 03 30", "descricao": "Documento técnico ou folha de dados para o produto REFLETOR FIT 23 03 30.", "arquivo": "arquivos/DATASHEET_REFLETOR_FIT_23_03_30.pdf"}
+,
+  {"id": 25, "produto": "StreetFit v1", "descricao": "Documento técnico ou folha de dados para o produto StreetFit v1.", "arquivo": "arquivos/DATASHEET_StreetFit_v1.pdf"}
+,
+  {"id": 26, "produto": "UFO G2 2025 25 09", "descricao": "Documento técnico ou folha de dados para o produto UFO G2 2025 25 09.", "arquivo": "arquivos/DATASHEET_UFO_G2_2025_25_09.pdf"}
+,
+  {"id": 27, "produto": "URBJET 2023 24 01 05", "descricao": "Documento técnico ou folha de dados para o produto URBJET 2023 24 01 05.", "arquivo": "arquivos/DATASHEET_URBJET_2023_24_01_05.pdf"}
+,
+  {"id": 28, "produto": "Ligação HBMI REDE ELETRICA", "descricao": "Documento técnico ou folha de dados para o produto Ligação HBMI REDE ELETRICA.", "arquivo": "arquivos/Ligação_HBMI_REDE_ELETRICA.pdf"}
+,
+  {"id": 29, "produto": "MOD FIT - 2021", "descricao": "Documento técnico ou folha de dados para o produto MOD FIT - 2021.", "arquivo": "arquivos/MOD FIT - 2021.pdf"}
+,
+  {"id": 30, "produto": "MOD FIT CUPULA - 2021", "descricao": "Documento técnico ou folha de dados para o produto MOD FIT CUPULA - 2021.", "arquivo": "arquivos/MOD FIT CUPULA - 2021.pdf"}
+,
+  {"id": 31, "produto": "MOD FIT TAMPA - 2021", "descricao": "Documento técnico ou folha de dados para o produto MOD FIT TAMPA - 2021.", "arquivo": "arquivos/MOD FIT TAMPA - 2021.pdf"}
+,
+  {"id": 32, "produto": "TERMO DE GARANTIA", "descricao": "Documento técnico ou folha de dados para o produto TERMO DE GARANTIA.", "arquivo": "arquivos/TERMO_DE_GARANTIA.pdf"}
 ]
