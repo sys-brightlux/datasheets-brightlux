@@ -1,0 +1,218 @@
+﻿[
+    {
+        "id":  1,
+        "produto":  "Acessorio Articulacao Publica",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto Acessorio Articulacao Publica.",
+        "arquivo":  "arquivos/Acessorio Articulacao Publica.pdf"
+    },
+    {
+        "id":  2,
+        "produto":  "Acessorio Articulação Publica",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto Acessorio Articulação Publica.",
+        "arquivo":  "arquivos/Acessorio Articulação Publica.pdf"
+    },
+    {
+        "id":  3,
+        "produto":  "Acessório Articulação Publica",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto Acessório Articulação Publica.",
+        "arquivo":  "arquivos/Acessório Articulação Publica.pdf"
+    },
+    {
+        "id":  4,
+        "produto":  "BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V.",
+        "arquivo":  "arquivos/BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V.pdf"
+    },
+    {
+        "id":  5,
+        "produto":  "BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V.",
+        "arquivo":  "arquivos/BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V.pdf"
+    },
+    {
+        "id":  6,
+        "produto":  "DATASHEET_DRIVER_HBMI_25-09-12",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_DRIVER_HBMI_25-09-12.",
+        "arquivo":  "arquivos/DATASHEET_DRIVER_HBMI_25-09-12.pdf"
+    },
+    {
+        "id":  7,
+        "produto":  "DATASHEET_DRIVER_STREET_24_05_06",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_DRIVER_STREET_24_05_06.",
+        "arquivo":  "arquivos/DATASHEET_DRIVER_STREET_24_05_06.pdf"
+    },
+    {
+        "id":  8,
+        "produto":  "DATASHEET_HBMI_G4_440VAC_v1",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HBMI_G4_440VAC_v1.",
+        "arquivo":  "arquivos/DATASHEET_HBMI_G4_440VAC_v1.pdf"
+    },
+    {
+        "id":  9,
+        "produto":  "DATASHEET_HBMI_G4_v2",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HBMI_G4_v2.",
+        "arquivo":  "arquivos/DATASHEET_HBMI_G4_v2.pdf"
+    },
+    {
+        "id":  10,
+        "produto":  "DATASHEET_HBMI_M100HV_25_08_13",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HBMI_M100HV_25_08_13.",
+        "arquivo":  "arquivos/DATASHEET_HBMI_M100HV_25_08_13.pdf"
+    },
+    {
+        "id":  11,
+        "produto":  "DATASHEET_HBMI_PORTÁTIL_v2",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_v2.",
+        "arquivo":  "arquivos/DATASHEET_HBMI_PORTÁTIL_v2.pdf"
+    },
+    {
+        "id":  12,
+        "produto":  "DATASHEET_HELYOS_SOLAR_25_04_07",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HELYOS_SOLAR_25_04_07.",
+        "arquivo":  "arquivos/DATASHEET_HELYOS_SOLAR_25_04_07.pdf"
+    },
+    {
+        "id":  13,
+        "produto":  "DATASHEET_HERMETICA_IP66_2023_24_07_10",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HERMETICA_IP66_2023_24_07_10.",
+        "arquivo":  "arquivos/DATASHEET_HERMETICA_IP66_2023_24_07_10.pdf"
+    },
+    {
+        "id":  14,
+        "produto":  "DATASHEET_HERMETICA_IP69K_23_06_19",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HERMETICA_IP69K_23_06_19.",
+        "arquivo":  "arquivos/DATASHEET_HERMETICA_IP69K_23_06_19.pdf"
+    },
+    {
+        "id":  15,
+        "produto":  "DATASHEET_HTB2_25_09_09",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HTB2_25_09_09.",
+        "arquivo":  "arquivos/DATASHEET_HTB2_25_09_09.pdf"
+    },
+    {
+        "id":  16,
+        "produto":  "DATASHEET_HTC_PCL_23_10_10",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HTC_PCL_23_10_10.",
+        "arquivo":  "arquivos/DATASHEET_HTC_PCL_23_10_10.pdf"
+    },
+    {
+        "id":  17,
+        "produto":  "DATASHEET_HTS_25_02_12",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_HTS_25_02_12.",
+        "arquivo":  "arquivos/DATASHEET_HTS_25_02_12.pdf"
+    },
+    {
+        "id":  18,
+        "produto":  "DATASHEET_LEX_v1",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_LEX_v1.",
+        "arquivo":  "arquivos/DATASHEET_LEX_v1.pdf"
+    },
+    {
+        "id":  19,
+        "produto":  "DATASHEET_Linear_2021_v2",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_Linear_2021_v2.",
+        "arquivo":  "arquivos/DATASHEET_Linear_2021_v2.pdf"
+    },
+    {
+        "id":  20,
+        "produto":  "DATASHEET_Ornamental_GRD_24_12_19",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_Ornamental_GRD_24_12_19.",
+        "arquivo":  "arquivos/DATASHEET_Ornamental_GRD_24_12_19.pdf"
+    },
+    {
+        "id":  21,
+        "produto":  "DATASHEET_Ornamental_Injetada_25_07_04",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_Ornamental_Injetada_25_07_04.",
+        "arquivo":  "arquivos/DATASHEET_Ornamental_Injetada_25_07_04.pdf"
+    },
+    {
+        "id":  22,
+        "produto":  "DATASHEET_ORNAMENTAL_PARATY_25_09_30",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_ORNAMENTAL_PARATY_25_09_30.",
+        "arquivo":  "arquivos/DATASHEET_ORNAMENTAL_PARATY_25_09_30.pdf"
+    },
+    {
+        "id":  23,
+        "produto":  "DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.",
+        "arquivo":  "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.pdf"
+    },
+    {
+        "id":  24,
+        "produto":  "DATASHEET_PROJETOR_BLINDADO_CRYF_ALTA_TEMPERATURA_24_02_08",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_ALTA_TEMPERATURA_24_02_08.",
+        "arquivo":  "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_ALTA_TEMPERATURA_24_02_08.pdf"
+    },
+    {
+        "id":  25,
+        "produto":  "DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25.",
+        "arquivo":  "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25.pdf"
+    },
+    {
+        "id":  26,
+        "produto":  "DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_DMX_30_04_25",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_DMX_30_04_25.",
+        "arquivo":  "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_DMX_30_04_25.pdf"
+    },
+    {
+        "id":  27,
+        "produto":  "DATASHEET_REFLETOR_FIT_23_03_30",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_REFLETOR_FIT_23_03_30.",
+        "arquivo":  "arquivos/DATASHEET_REFLETOR_FIT_23_03_30.pdf"
+    },
+    {
+        "id":  28,
+        "produto":  "DATASHEET_StreetFit_v1",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_StreetFit_v1.",
+        "arquivo":  "arquivos/DATASHEET_StreetFit_v1.pdf"
+    },
+    {
+        "id":  29,
+        "produto":  "DATASHEET_UFO_G2_2025_25_09",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_UFO_G2_2025_25_09.",
+        "arquivo":  "arquivos/DATASHEET_UFO_G2_2025_25_09.pdf"
+    },
+    {
+        "id":  30,
+        "produto":  "DATASHEET_URBJET_2023_24_01_05",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto DATASHEET_URBJET_2023_24_01_05.",
+        "arquivo":  "arquivos/DATASHEET_URBJET_2023_24_01_05.pdf"
+    },
+    {
+        "id":  31,
+        "produto":  "Ligação_HBMI_REDE_ELETRICA",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto Ligação_HBMI_REDE_ELETRICA.",
+        "arquivo":  "arquivos/Ligação_HBMI_REDE_ELETRICA.pdf"
+    },
+    {
+        "id":  32,
+        "produto":  "Ligação_HBMI_REDE_ELÉTRICA",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto Ligação_HBMI_REDE_ELÉTRICA.",
+        "arquivo":  "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
+    },
+    {
+        "id":  33,
+        "produto":  "MOD FIT - 2021",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto MOD FIT - 2021.",
+        "arquivo":  "arquivos/MOD FIT - 2021.pdf"
+    },
+    {
+        "id":  34,
+        "produto":  "MOD FIT CUPULA - 2021",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto MOD FIT CUPULA - 2021.",
+        "arquivo":  "arquivos/MOD FIT CUPULA - 2021.pdf"
+    },
+    {
+        "id":  35,
+        "produto":  "MOD FIT TAMPA - 2021",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto MOD FIT TAMPA - 2021.",
+        "arquivo":  "arquivos/MOD FIT TAMPA - 2021.pdf"
+    },
+    {
+        "id":  36,
+        "produto":  "TERMO_DE_GARANTIA",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto TERMO_DE_GARANTIA.",
+        "arquivo":  "arquivos/TERMO_DE_GARANTIA.pdf"
+    }
+]
