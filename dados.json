@@ -214,5 +214,11 @@
         "produto":  "Ligação_HBMI_REDE_ELÉTRICA",
         "descricao":  "Documento tÃ©cnico ou folha de dados para o produto Ligação_HBMI_REDE_ELÉTRICA.",
         "arquivo":  "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
+    },
+    {
+        "id":  37,
+        "produto":  "PDF-TESTE",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto PDF-TESTE.",
+        "arquivo":  "arquivos/PDF-TESTE.pdf"
     }
 ]
