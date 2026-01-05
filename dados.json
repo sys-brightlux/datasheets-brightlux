@@ -220,5 +220,11 @@
         "produto":  "PDF-TESTE",
         "descricao":  "Documento tÃ©cnico ou folha de dados para o produto PDF-TESTE.",
         "arquivo":  "arquivos/PDF-TESTE.pdf"
+    },
+    {
+        "id":  38,
+        "produto":  "PDF-TESTE - Copia",
+        "descricao":  "Documento tÃ©cnico ou folha de dados para o produto PDF-TESTE - Copia.",
+        "arquivo":  "arquivos/PDF-TESTE - Copia.pdf"
     }
 ]
