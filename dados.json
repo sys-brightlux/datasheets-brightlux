@@ -232,5 +232,11 @@
         "produto": "Acessório Articulação Publica",
         "descricao": "Documento técnico ou folha de dados para o produto Acessório Articulação Publica.",
         "arquivo": "arquivos/Acessório Articulação Publica.pdf"
+    },
+    {
+        "id": 40,
+        "produto": "DATASHEET_MOD_EMERGENCIA_8W_25-12-12",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_MOD_EMERGENCIA_8W_25-12-12.",
+        "arquivo": "arquivos/DATASHEET_MOD_EMERGENCIA_8W_25-12-12.pdf"
     }
 ]
