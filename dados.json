@@ -36,12 +36,6 @@
         "arquivo": "arquivos/Acessório Articulação Publica.pdf"
     },
     {
-        "id": 7,
-        "produto": "Acessorio Articulacao Publica",
-        "descricao": "Documento técnico ou folha de dados para o produto Acessorio Articulacao Publica.",
-        "arquivo": "arquivos/Acessorio Articulacao Publica.pdf"
-    },
-    {
         "id": 8,
         "produto": "DATASHEET_HELYOS_SOLAR_25_04_07",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HELYOS_SOLAR_25_04_07.",
@@ -178,12 +172,6 @@
         "produto": "DATASHEET_StreetFit_v1",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_StreetFit_v1.",
         "arquivo": "arquivos/DATASHEET_StreetFit_v1.pdf"
-    },
-    {
-        "id": 31,
-        "produto": "Acessorio Articulação Publica",
-        "descricao": "Documento técnico ou folha de dados para o produto Acessorio Articulação Publica.",
-        "arquivo": "arquivos/Acessorio Articulação Publica.pdf"
     },
     {
         "id": 32,
