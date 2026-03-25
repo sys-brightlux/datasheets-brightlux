@@ -244,5 +244,10 @@
         "produto": "DATSHEET_PAINEL_26-03-19",
         "descricao": "Documento técnico ou folha de dados para o produto DATSHEET_PAINEL_26-03-19.",
         "arquivo": "arquivos/DATSHEET_PAINEL_26-03-19.pdf"
+    },
+    {
+        "nome": "teste",
+        "categoria": "teste",
+        "arquivo": "./arquivos/TERMO_DE_GARANTIA_26-03-25.pdf"
     }
 ]
