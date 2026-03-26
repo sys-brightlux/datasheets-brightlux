@@ -214,12 +214,5 @@
         "produto": "Acessório Articulação Publica",
         "descricao": "Documento técnico ou folha de dados para o produto Acessório Articulação Publica.",
         "arquivo": "arquivos/Acessório Articulação Publica.pdf"
-    },
-    {
-        "id": 37,
-        "produto": "SPORT - 2021",
-        "descricao": "Documento técnico ou folha de dados para o produto SPORT - 2021.",
-        "categoria": "Refletores",
-        "arquivo": "arquivos/SPORT - 2021.pdf"
     }
 ]
