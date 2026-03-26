@@ -82,7 +82,8 @@
         "id": 14,
         "produto": "DATASHEET_Ornamental_GRD_24_12_19",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_Ornamental_GRD_24_12_19.",
-        "arquivo": "arquivos/DATASHEET_Ornamental_GRD_24_12_19.pdf"
+        "arquivo": "arquivos/DATASHEET_Ornamental_GRD_24_12_19.pdf",
+        "categoria": "Iluminação Ornamental"
     },
     {
         "id": 15,
@@ -136,7 +137,8 @@
         "id": 23,
         "produto": "DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.",
-        "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.pdf"
+        "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.pdf",
+        "categoria": "Projetores"
     },
     {
         "id": 24,
@@ -202,7 +204,8 @@
         "id": 34,
         "produto": "DATASHEET_Ornamental_Injetada_25_07_04",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_Ornamental_Injetada_25_07_04.",
-        "arquivo": "arquivos/DATASHEET_Ornamental_Injetada_25_07_04.pdf"
+        "arquivo": "arquivos/DATASHEET_Ornamental_Injetada_25_07_04.pdf",
+        "categoria": "Iluminação Ornamental"
     },
     {
         "id": 35,
@@ -215,5 +218,40 @@
         "produto": "Acessório Articulação Publica",
         "descricao": "Documento técnico ou folha de dados para o produto Acessório Articulação Publica.",
         "arquivo": "arquivos/Acessório Articulação Publica.pdf"
+    },
+    {
+        "id": 37,
+        "produto": "DATASHEET_DPS_BRLX_LSP10-HBMI",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_DPS_BRLX_LSP10-HBMI.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_DPS_BRLX_LSP10-HBMI.pdf"
+    },
+    {
+        "id": 38,
+        "produto": "DATASHEET_HBMI_G4_26-01-16",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_G4_26-01-16.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_HBMI_G4_26-01-16.pdf"
+    },
+    {
+        "id": 39,
+        "produto": "DATASHEET_HBMI_M100_25_03_25",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_M100_25_03_25.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_HBMI_M100_25_03_25.pdf"
+    },
+    {
+        "id": 40,
+        "produto": "DATASHEET_HTC_PCL_25-12-05",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HTC_PCL_25-12-05.",
+        "categoria": "Iluminação Pública",
+        "arquivo": "arquivos/DATASHEET_HTC_PCL_25-12-05.pdf"
+    },
+    {
+        "id": 41,
+        "produto": "SPORT - 2021",
+        "descricao": "Documento técnico ou folha de dados para o produto SPORT - 2021.",
+        "categoria": "Projetores",
+        "arquivo": "arquivos/SPORT - 2021.pdf"
     }
 ]
