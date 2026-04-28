@@ -253,5 +253,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto SPORT - 2021.",
         "categoria": "Projetores",
         "arquivo": "arquivos/SPORT - 2021.pdf"
+    },
+    {
+        "id": 42,
+        "produto": "Catalogo Geral Dos Produtos",
+        "descricao": "Documento técnico ou folha de dados para o produto Catalogo Geral Dos Produtos.",
+        "categoria": "Projetores",
+        "arquivo": "arquivos/Catalogo Geral Dos Produtos.pdf"
     }
 ]
