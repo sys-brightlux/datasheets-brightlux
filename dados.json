@@ -260,5 +260,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto Catalogo Geral Dos Produtos.",
         "categoria": "Projetores",
         "arquivo": "arquivos/Catalogo Geral Dos Produtos.pdf"
+    },
+    {
+        "id": 43,
+        "produto": "CATÁLOGO KIT MÓDULO DE EMERGÊNCIA",
+        "descricao": "Documento técnico ou folha de dados para o produto CATÁLOGO KIT MÓDULO DE EMERGÊNCIA.",
+        "categoria": "Módulos de Emergência",
+        "arquivo": "arquivos/CATÁLOGO KIT MÓDULO DE EMERGÊNCIA.pdf"
     }
 ]
