@@ -267,5 +267,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto CATÁLOGO KIT MÓDULO DE EMERGÊNCIA.",
         "categoria": "Módulos de Emergência",
         "arquivo": "arquivos/CATÁLOGO KIT MÓDULO DE EMERGÊNCIA.pdf"
+    },
+    {
+        "id": 44,
+        "produto": "DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26.pdf"
     }
 ]
