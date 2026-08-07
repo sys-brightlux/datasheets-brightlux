@@ -274,5 +274,33 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26.",
         "categoria": "High Bay",
         "arquivo": "arquivos/DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26.pdf"
+    },
+    {
+        "id": 45,
+        "produto": "DATASHEET-DRIVER-HV_26-08-05",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET-DRIVER-HV_26-08-05.",
+        "categoria": "Drivers",
+        "arquivo": "arquivos/DATASHEET-DRIVER-HV_26-08-05.pdf"
+    },
+    {
+        "id": 46,
+        "produto": "DATASHEET-DRIVER-STREET_2026-07-14",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET-DRIVER-STREET_2026-07-14.",
+        "categoria": "Drivers",
+        "arquivo": "arquivos/DATASHEET-DRIVER-STREET_2026-07-14.pdf"
+    },
+    {
+        "id": 47,
+        "produto": "DATASHEET-DRV-M_26-08-05",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET-DRV-M_26-08-05.",
+        "categoria": "Drivers",
+        "arquivo": "arquivos/DATASHEET-DRV-M_26-08-05.pdf"
+    },
+    {
+        "id": 48,
+        "produto": "DATASHEET_HBMI_PORTÁTIL_2026-07-08",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_2026-07-08.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_2026-07-08.pdf"
     }
 ]
