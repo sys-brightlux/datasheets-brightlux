@@ -309,5 +309,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_2026-08-12.",
         "categoria": "High Bay",
         "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_2026-08-12.pdf"
+    },
+    {
+        "id": 50,
+        "produto": "DATASHEET_HBMI_PORTÁTIL_2026-08-13",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_2026-08-13.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_2026-08-13.pdf"
     }
 ]
