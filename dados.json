@@ -37,12 +37,6 @@
         "categoria": "Iluminação Pública"
     },
     {
-        "id": 7,
-        "produto": "BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V",
-        "descricao": "Documento técnico ou folha de dados para o produto BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V.",
-        "arquivo": "arquivos/BRIGHTLUX - Orientação quanto a dimerização de Produtos 0-10V.pdf"
-    },
-    {
         "id": 8,
         "produto": "MOD FIT TAMPA - 2021",
         "descricao": "Documento técnico ou folha de dados para o produto MOD FIT TAMPA - 2021.",
@@ -59,12 +53,6 @@
         "produto": "DATASHEET_ORNAMENTAL_PARATY_25_09_30",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_ORNAMENTAL_PARATY_25_09_30.",
         "arquivo": "arquivos/DATASHEET_ORNAMENTAL_PARATY_25_09_30.pdf"
-    },
-    {
-        "id": 11,
-        "produto": "DATASHEET_HBMI_G4_v2",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_G4_v2.",
-        "arquivo": "arquivos/DATASHEET_HBMI_G4_v2.pdf"
     },
     {
         "id": 12,
@@ -98,24 +86,6 @@
         "arquivo": "arquivos/MOD FIT - 2021.pdf"
     },
     {
-        "id": 17,
-        "produto": "BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V",
-        "descricao": "Documento técnico ou folha de dados para o produto BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V.",
-        "arquivo": "arquivos/BRIGHTLUX - Orientacao quanto a dimerizacao de Produtos 0-10V.pdf"
-    },
-    {
-        "id": 18,
-        "produto": "Ligação_HBMI_REDE_ELETRICA",
-        "descricao": "Documento técnico ou folha de dados para o produto Ligação_HBMI_REDE_ELETRICA.",
-        "arquivo": "arquivos/Ligação_HBMI_REDE_ELETRICA.pdf"
-    },
-    {
-        "id": 19,
-        "produto": "DATASHEET_DRIVER_HBMI_25-09-12",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_DRIVER_HBMI_25-09-12.",
-        "arquivo": "arquivos/DATASHEET_DRIVER_HBMI_25-09-12.pdf"
-    },
-    {
         "id": 20,
         "produto": "MOD FIT CUPULA - 2021",
         "descricao": "Documento técnico ou folha de dados para o produto MOD FIT CUPULA - 2021.",
@@ -128,23 +98,11 @@
         "arquivo": "arquivos/DATASHEET_HERMETICA_IP66_2023_24_07_10.pdf"
     },
     {
-        "id": 22,
-        "produto": "DATASHEET_HBMI_PORTÁTIL_v2",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_v2.",
-        "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_v2.pdf"
-    },
-    {
         "id": 23,
         "produto": "DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.",
         "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_29_07_25.pdf",
         "categoria": "Projetores"
-    },
-    {
-        "id": 24,
-        "produto": "TERMO_DE_GARANTIA",
-        "descricao": "Documento técnico ou folha de dados para o produto TERMO_DE_GARANTIA.",
-        "arquivo": "arquivos/TERMO_DE_GARANTIA.pdf"
     },
     {
         "id": 25,
@@ -159,18 +117,6 @@
         "arquivo": "arquivos/DATASHEET_LEX_v1.pdf"
     },
     {
-        "id": 27,
-        "produto": "DATASHEET_HTC_PCL_23_10_10",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HTC_PCL_23_10_10.",
-        "arquivo": "arquivos/DATASHEET_HTC_PCL_23_10_10.pdf"
-    },
-    {
-        "id": 28,
-        "produto": "DATASHEET_DRIVER_STREET_24_05_06",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_DRIVER_STREET_24_05_06.",
-        "arquivo": "arquivos/DATASHEET_DRIVER_STREET_24_05_06.pdf"
-    },
-    {
         "id": 29,
         "produto": "DATASHEET_HBMI_G4_440VAC_v1",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_G4_440VAC_v1.",
@@ -183,22 +129,10 @@
         "arquivo": "arquivos/DATASHEET_StreetFit_v1.pdf"
     },
     {
-        "id": 31,
-        "produto": "Ligação_HBMI_REDE_ELÉTRICA",
-        "descricao": "Documento técnico ou folha de dados para o produto Ligação_HBMI_REDE_ELÉTRICA.",
-        "arquivo": "arquivos/Ligação_HBMI_REDE_ELÉTRICA.pdf"
-    },
-    {
         "id": 32,
         "produto": "DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25.",
         "arquivo": "arquivos/DATASHEET_PROJETOR_BLINDADO_CRYF_RGB_CONTROLE_1Z_16_09_25.pdf"
-    },
-    {
-        "id": 33,
-        "produto": "DATASHEET_MOD_EMERGENCIA_8W_25-12-12",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_MOD_EMERGENCIA_8W_25-12-12.",
-        "arquivo": "arquivos/DATASHEET_MOD_EMERGENCIA_8W_25-12-12.pdf"
     },
     {
         "id": 34,
@@ -295,20 +229,6 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET-DRV-M_26-08-05.",
         "categoria": "Drivers",
         "arquivo": "arquivos/DATASHEET-DRV-M_26-08-05.pdf"
-    },
-    {
-        "id": 48,
-        "produto": "DATASHEET_HBMI_PORTÁTIL_2026-07-08",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_2026-07-08.",
-        "categoria": "High Bay",
-        "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_2026-07-08.pdf"
-    },
-    {
-        "id": 49,
-        "produto": "DATASHEET_HBMI_PORTÁTIL_2026-08-12",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_2026-08-12.",
-        "categoria": "High Bay",
-        "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_2026-08-12.pdf"
     },
     {
         "id": 50,
