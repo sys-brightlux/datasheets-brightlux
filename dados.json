@@ -142,12 +142,6 @@
         "categoria": "Iluminação Ornamental"
     },
     {
-        "id": 35,
-        "produto": "DATASHEET_HBMI_M100HV_25_08_13",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_M100HV_25_08_13.",
-        "arquivo": "arquivos/DATASHEET_HBMI_M100HV_25_08_13.pdf"
-    },
-    {
         "id": 36,
         "produto": "Acessório Articulação Publica",
         "descricao": "Documento técnico ou folha de dados para o produto Acessório Articulação Publica.",
@@ -166,13 +160,6 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_G4_26-01-16.",
         "categoria": "High Bay",
         "arquivo": "arquivos/DATASHEET_HBMI_G4_26-01-16.pdf"
-    },
-    {
-        "id": 39,
-        "produto": "DATASHEET_HBMI_M100_25_03_25",
-        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_M100_25_03_25.",
-        "categoria": "High Bay",
-        "arquivo": "arquivos/DATASHEET_HBMI_M100_25_03_25.pdf"
     },
     {
         "id": 40,
@@ -236,5 +223,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_PORTÁTIL_2026-08-13.",
         "categoria": "High Bay",
         "arquivo": "arquivos/DATASHEET_HBMI_PORTÁTIL_2026-08-13.pdf"
+    },
+    {
+        "id": 51,
+        "produto": "DATASHEET_HBMI_M100HV_26-08-24",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_M100HV_26-08-24.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_HBMI_M100HV_26-08-24.pdf"
     }
 ]
