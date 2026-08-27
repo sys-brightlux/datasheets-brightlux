@@ -230,5 +230,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_M100HV_26-08-24.",
         "categoria": "High Bay",
         "arquivo": "arquivos/DATASHEET_HBMI_M100HV_26-08-24.pdf"
+    },
+    {
+        "id": 52,
+        "produto": "DATASHEET_HBMI_INOX_2026-08-26",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_INOX_2026-08-26.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_HBMI_INOX_2026-08-26.pdf"
     }
 ]
