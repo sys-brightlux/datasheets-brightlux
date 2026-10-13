@@ -237,5 +237,12 @@
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_HBMI_INOX_2026-08-26.",
         "categoria": "High Bay",
         "arquivo": "arquivos/DATASHEET_HBMI_INOX_2026-08-26.pdf"
+    },
+    {
+        "id": 53,
+        "produto": "Shorting Cap - BRIGHTLUX",
+        "descricao": "Documento técnico ou folha de dados para o produto Shorting Cap - BRIGHTLUX.",
+        "categoria": "Iluminação Pública",
+        "arquivo": "arquivos/Shorting Cap - BRIGHTLUX.pdf"
     }
 ]
