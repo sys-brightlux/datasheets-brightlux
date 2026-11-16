@@ -183,13 +183,6 @@
         "arquivo": "arquivos/Catalogo Geral Dos Produtos.pdf"
     },
     {
-        "id": 43,
-        "produto": "CATÁLOGO KIT MÓDULO DE EMERGÊNCIA",
-        "descricao": "Documento técnico ou folha de dados para o produto CATÁLOGO KIT MÓDULO DE EMERGÊNCIA.",
-        "categoria": "Módulos de Emergência",
-        "arquivo": "arquivos/CATÁLOGO KIT MÓDULO DE EMERGÊNCIA.pdf"
-    },
-    {
         "id": 44,
         "produto": "DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26",
         "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_POSTO_MOD_GRID_G4_v1_08-07-26.",
@@ -244,5 +237,26 @@
         "descricao": "Documento técnico ou folha de dados para o produto Shorting Cap - BRIGHTLUX.",
         "categoria": "Iluminação Pública",
         "arquivo": "arquivos/Shorting Cap - BRIGHTLUX.pdf"
+    },
+    {
+        "id": 54,
+        "produto": "DATASHEET_CONECTOR_LINEAR-HBMI_IP68",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_CONECTOR_LINEAR-HBMI_IP68.",
+        "categoria": "High Bay",
+        "arquivo": "arquivos/DATASHEET_CONECTOR_LINEAR-HBMI_IP68.pdf"
+    },
+    {
+        "id": 55,
+        "produto": "DATASHEET_MOD_EMERGENCIA_8W_26-11-16",
+        "descricao": "Documento técnico ou folha de dados para o produto DATASHEET_MOD_EMERGENCIA_8W_26-11-16.",
+        "categoria": "Módulos de Emergência",
+        "arquivo": "arquivos/DATASHEET_MOD_EMERGENCIA_8W_26-11-16.pdf"
+    },
+    {
+        "id": 56,
+        "produto": "DRW-CONECTOR-LINEAR-3P-IP68",
+        "descricao": "Documento técnico ou folha de dados para o produto DRW-CONECTOR-LINEAR-3P-IP68.",
+        "categoria": "Luminárias Lineares",
+        "arquivo": "arquivos/DRW-CONECTOR-LINEAR-3P-IP68.pdf"
     }
 ]
